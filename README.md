@@ -1,5 +1,7 @@
 # esse4
-Portale Studenti
+![projectLogo](https://myoctocat.com/assets/images/base-octocat.svg)
+## Progetto di Basi di Dati e Laboratorio di Basi di Dati - Università "Parthenope"
+Categoria: Portale Studenti
 
 ### Descrizione 
 Si vuole realizzare la gestione di un portale studenti. A partire da profonde analisi, discussioni e conversazioni, sono scaturiti i requisiti seguenti. Il database deve riprodurre (per quanto possibile) il funzionamento di un noto portale studenti che permette di fornire i cosiddetti “Servizi Informatici” per Studenti e Docenti. In particolare, occorre tenere traccia dei seguenti aspetti:
