@@ -69,7 +69,7 @@ universitaria.
 Inoltre, un docente è valutato a partire dai questionari relativi ad una determinata edizione di insegnamento che insegna svolgendo un certo ruolo.
 Nel caso una prenotazione di un appello, appello di laurea, ricevimento sia cancellata, lo slot diventa nuovamente disponibile. I dati delle prenotazioni sono conservati per un determinato periodo di tempo, dopodiché vengono cancellati. Le politiche accennate sono implementate mediante procedure, le quali vengono discusse nel dettaglio nella sezione “Procedure” del capitolo “Progettazione”.
 
-#### [continua la lettura della documentazione](https://github.com/dennewbie/esse4/blob/main/documentazione/relazione_progetto_esse4.pdf): 
+#### [clicca qui per continuare la lettura della documentazione](https://github.com/dennewbie/esse4/blob/main/documentazione/relazione_progetto_esse4.pdf)
 
 ### Credenziali ripristino DUMP:
 nome
