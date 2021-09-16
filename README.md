@@ -1,9 +1,14 @@
 # esse4
 ![projectLogo](https://github.com/dennewbie/esse4/blob/main/documentazione/img.png)
 ## Progetto di Basi di Dati e Laboratorio di Basi di Dati - Università "Parthenope"
-Categoria: Portale Studenti
+
+### Team: 
+- [Max](https://github.com/gomax21)
+- [Alfredo](https://github.com/AlfredoTerabait)
+- [Denny](https://github.com/dennewbie)
 
 ### Descrizione 
+Categoria: Portale Studenti
 Si vuole realizzare la gestione di un portale studenti. A partire da profonde analisi, discussioni e conversazioni, sono scaturiti i requisiti seguenti. Il database deve riprodurre (per quanto possibile) il funzionamento di un noto portale studenti che permette di fornire i cosiddetti “Servizi Informatici” per Studenti e Docenti. In particolare, occorre tenere traccia dei seguenti aspetti:
 - Studenti
 	- pagamento delle tasse
