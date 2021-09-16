@@ -2,7 +2,7 @@
 ![projectLogo](https://github.com/dennewbie/esse4/blob/main/documentazione/img.png)
 ## Progetto di Basi di Dati e Laboratorio di Basi di Dati - Università "Parthenope"
 
-### Team: 
+### Team: 
 - [Max](https://github.com/gomax21)
 - [Alfredo](https://github.com/AlfredoTerabait)
 - [Denny](https://github.com/dennewbie)
