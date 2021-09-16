@@ -1,5 +1,5 @@
 # esse4
-![projectLogo](https://myoctocat.com/assets/images/base-octocat.svg)
+![projectLogo](https://github.com/dennewbie/esse4/blob/main/documentazione/img.png)
 ## Progetto di Basi di Dati e Laboratorio di Basi di Dati - Università "Parthenope"
 Categoria: Portale Studenti
 
