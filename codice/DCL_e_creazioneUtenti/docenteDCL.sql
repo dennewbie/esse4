@@ -1,0 +1,36 @@
+GRANT CONNECT, CREATE SESSION TO c##docente;
+GRANT SELECT ON corso_laurea TO c##docente;
+GRANT SELECT ON studente TO c##docente;
+GRANT SELECT ON insegnamento TO c##docente;
+GRANT SELECT ON offerta_insegnamento TO c##docente;
+GRANT SELECT ON edizione_insegnamento TO c##docente;
+GRANT SELECT, INSERT, UPDATE, DELETE ON frequenta_edizione_insegnamento TO c##docente;    
+GRANT SELECT ON appello_laurea TO c##docente;
+GRANT SELECT ON prenotazione_appello_seduta TO c##docente;
+GRANT SELECT ON partecipa_seduta TO c##docente; 
+GRANT SELECT ON seduta_laurea TO c##docente;
+GRANT SELECT ON esame_superato TO c##docente;
+GRANT SELECT ON relatore TO c##docente;
+GRANT SELECT ON questionario TO c##docente;
+GRANT SELECT, INSERT, UPDATE ON appello TO c##docente;
+GRANT SELECT ON orario_lezioni TO c##docente;
+GRANT SELECT, INSERT, UPDATE ON seminario TO c##docente;
+GRANT SELECT ON presiede_appello TO c##docente;
+GRANT SELECT, INSERT, UPDATE ON ricevimento TO c##docente;
+GRANT SELECT ON prenotazione_ricevimento TO c##docente;
+GRANT SELECT ON prenotazione_appello TO c##docente;
+GRANT SELECT ON telefono_docente TO c##docente;
+GRANT SELECT ON email_docente TO c##docente;
+GRANT SELECT ON email_studente TO c##docente;
+GRANT SELECT ON email_tutor_aziendale TO c##docente;
+GRANT SELECT ON docente TO c##docente;
+GRANT SELECT ON partecipa_seminario TO c##docente;
+GRANT SELECT ON tirocinio TO c##docente;
+GRANT SELECT ON azienda TO c##docente;
+GRANT SELECT ON tutor_aziendale TO c##docente;
+GRANT SELECT ON insegna_edizione TO c##docente;
+
+GRANT SELECT ON vista_corsi_di_laurea_posti_disponibili TO c##docente;
+GRANT SELECT ON vista_seminari_prossimo_mese TO c##docente;
+
+GRANT EXECUTE ON procedura_programmazione_appelli TO c##docente;

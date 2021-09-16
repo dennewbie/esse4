@@ -1,0 +1,36 @@
+GRANT CONNECT, CREATE SESSION TO c##studente;
+GRANT SELECT ON corso_laurea TO c##studente;
+GRANT SELECT ON docente TO c##studente;
+GRANT SELECT ON insegnamento TO c##studente;
+GRANT SELECT ON edizione_insegnamento TO c##studente;
+GRANT SELECT ON offerta_insegnamento TO c##studente;
+GRANT SELECT ON insegna_edizione TO c##studente;
+GRANT SELECT ON frequenta_edizione_insegnamento TO c##studente;
+GRANT SELECT ON appello_laurea TO c##studente;
+GRANT SELECT ON partecipa_seduta TO c##studente;
+GRANT SELECT ON seduta_laurea TO c##studente;
+GRANT SELECT ON azienda TO c##studente;
+GRANT SELECT ON tutor_aziendale TO c##studente;
+GRANT SELECT ON tirocinio TO c##studente;
+GRANT SELECT ON appello TO c##studente;
+GRANT SELECT ON orario_lezioni TO c##studente;
+GRANT SELECT ON seminario TO c##studente;
+GRANT SELECT ON presiede_appello TO c##studente;
+GRANT SELECT ON ricevimento TO c##studente;
+GRANT SELECT ON prenotazione_ricevimento TO c##studente;
+GRANT SELECT ON prenotazione_appello TO c##studente;
+GRANT SELECT ON partecipa_seminario TO c##studente;
+GRANT SELECT ON bando_borsa TO c##studente;
+GRANT SELECT ON bando_erasmus TO c##studente;
+GRANT SELECT ON assegnazione_borse TO c##studente;
+GRANT SELECT ON assegnazione_erasmus TO c##studente;
+GRANT SELECT ON email_studente TO c##studente;
+GRANT SELECT ON email_docente TO c##studente;
+GRANT SELECT ON email_tutor_aziendale TO c##studente;
+
+GRANT SELECT ON vista_bando_borsa_studio TO c##studente;
+GRANT SELECT ON vista_bando_erasmus TO c##studente;
+GRANT SELECT ON vista_corsi_di_laurea_posti_disponibili TO c##studente;
+GRANT SELECT ON vista_seminari_prossimo_mese TO c##studente;
+
+GRANT EXECUTE ON procedura_calcola_statistiche_esami_e_laurea TO c##studente;
