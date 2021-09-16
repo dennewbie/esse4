@@ -2,7 +2,7 @@
 Portale Studenti
 
 
-### Credenziali ripristino DUMP:
+### Credenziali ripristino DUMP:
 nome
 password
 In caso di malfunzionamento del file dump, usare l'approccio "manuale".
