@@ -1,7 +1,7 @@
 # esse4
 Portale Studenti
 
-#### Descrizione 
+### Descrizione 
 Si vuole realizzare la gestione di un portale studenti. A partire da profonde analisi, discussioni e conversazioni, sono scaturiti i requisiti seguenti. Il database deve riprodurre (per quanto possibile) il funzionamento di un noto portale studenti che permette di fornire i cosiddetti “Servizi Informatici” per Studenti e Docenti. In particolare, occorre tenere traccia dei seguenti aspetti:
 - Studenti
 	- pagamento delle tasse
@@ -64,7 +64,7 @@ Nel caso una prenotazione di un appello, appello di laurea, ricevimento sia canc
 
 #### [continua la lettura della documentazione](https://github.com/dennewbie/esse4/blob/main/documentazione/relazione_progetto_esse4.pdf): 
 
-#### Credenziali ripristino DUMP:
+### Credenziali ripristino DUMP:
 nome
 password
 In caso di malfunzionamento del file dump, usare l'approccio "manuale".
