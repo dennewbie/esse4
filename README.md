@@ -3,7 +3,7 @@
 ## Progetto di Basi di Dati e Laboratorio di Basi di Dati - Università "Parthenope"
 
 ### Team: 
-- [Max](https://github.com/gomax21)
+- [Max](https://github.com/gomax22)
 - [Alfredo](https://github.com/mungowz)
 - [Denny](https://github.com/dennewbie)
 
